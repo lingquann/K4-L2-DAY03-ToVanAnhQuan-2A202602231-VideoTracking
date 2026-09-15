@@ -7,7 +7,7 @@ Chép file này thành `reports/review_partner.md`. Reviewer chỉ ghi finding; 
 | Author | `Tô Văn Anh Quân — MSSV: 2A202602231` |
 | Reviewer | `Tô Văn Anh Quân (Self-QC — làm cá nhân, tự kiểm chéo với gold và model)` |
 | Pair ID | `N/A — bài cá nhân` |
-| CVAT version | `app.cvat.ai (cloud)` |
+| CVAT version | `local` |
 | Thời điểm review | `2026-09-15T07:30–08:00 UTC+7` |
 
 > **Ghi chú:** Bài làm cá nhân. Phần kiểm chéo được thực hiện bằng: (1) tự review 3 lượt tua theo GUIDE.md, (2) đối chiếu với teaching gold sau khi khóa pre-gold, (3) đối chiếu với model ReID để phát hiện điểm bất đồng.
